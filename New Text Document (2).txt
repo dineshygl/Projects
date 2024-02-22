@@ -1,0 +1,33 @@
+https://github.com/FarazAhmad07/Machine-Learning
+
+
+Statistics for Analytics and Data Science: Hypothesis Testing and Z-Test vs. T-Test
+https://www.analyticsvidhya.com/blog/2020/06/statistics-analytics-hypothesis-testing-z-test-t-test/?utm_source=blog&utm_medium=what-is-skewness-statistics
+
+Exploratory Analysis Using Univariate, Bivariate, and Multivariate Analysis Techniques
+https://www.analyticsvidhya.com/blog/2021/04/exploratory-analysis-using-univariate-bivariate-and-multivariate-analysis-techniques/
+
+A Complete Tutorial on Time Series Modeling in R
+https://www.analyticsvidhya.com/blog/2015/12/complete-tutorial-time-series-modeling/
+
+AUC-ROC Curve in Machine Learning Clearly Explained
+https://www.analyticsvidhya.com/blog/2020/06/auc-roc-curve-machine-learning/
+
+A Simple Introduction to ANOVA 
+https://www.analyticsvidhya.com/blog/2018/01/anova-analysis-of-variance/
+
+PCA: A Practical Guide to Principal Component Analysis in R & Python
+https://www.analyticsvidhya.com/blog/2016/03/pca-practical-guide-principal-component-analysis-python/
+
+Tree Based Algorithms: A Complete Tutorial from Scratch (in R & Python)
+
+https://www.analyticsvidhya.com/blog/2016/04/tree-based-algorithms-complete-tutorial-scratch-in-python/
+
+how to calculate Std
+https://www.mathsisfun.com/data/standard-deviation-formulas.html
+
+Feature Scaling for Machine Learning: Understanding the Difference Between Normalization vs. Standardization
+https://www.analyticsvidhya.com/blog/2020/04/feature-scaling-machine-learning-normalization-standardization/
+
+Steps to Complete a Machine Learning Project
+https://www.analyticsvidhya.com/blog/2021/04/steps-to-complete-a-machine-learning-project/
